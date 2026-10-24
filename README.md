@@ -2,7 +2,7 @@
 
 # Awesome-Data-Management-Platform-DMP
 
-# Top Data Management Platform (DMP)
+## Top Data Management Platform (DMP)
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
 *Focused on Audience Data Management, Identity Resolution, Segmentation, Activation & Privacy-Compliant Data Platforms*
