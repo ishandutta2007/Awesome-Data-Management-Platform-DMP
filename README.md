@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform-DMP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Management-Platform-DMP?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform-DMP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Management-Platform-DMP?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform-DMP/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Management-Platform-DMP?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform-DMP/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Data-Management-Platform-DMP?style=flat-square&color=red" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform-DMP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Data-Management-Platform-DMP?style=flat-square&color=green" alt="License" /></a>
@@ -60,9 +60,9 @@ The table below lists category-defining commercial Data Management Platforms and
 
 Open-source Customer Data Platforms (CDPs), event collection backbones, identity engines, and warehouse-native reverse-ETL tools provide transparent, self-hosted, privacy-first alternatives to commercial DMPs. 
 
-Projects below are sorted in descending order by **GitHub Star Count**:
+Projects below are sorted in descending order by **GitHub Stars_Count**:
 
-| 💻 Repository | ⭐ Stars | ⚖️ License | 🛠️ Tech Stack | 📖 Description |
+| 💻 Repository | ⭐ GitHub_Stars | ⚖️ License | 🛠️ Tech Stack | 📖 Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[PostHog](https://github.com/PostHog/posthog)** | [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Polyform / MIT | Python, TypeScript, ClickHouse | All-in-one platform featuring event capture, user profiling, session recording, feature flags, and CDP-style data pipelines. |
 | **[Plausible Analytics](https://github.com/plausible/analytics)** | [![Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers) | AGPL-3.0 | Elixir, PostgreSQL, ClickHouse | Lightweight, open-source, privacy-focused analytics software without cookies and fully compliant with GDPR, CCPA, and PECR. |
@@ -123,7 +123,7 @@ We welcome community contributions! To add a platform or update existing details
 1. 🍴 Fork the repository.
 2. 📝 Update `README.md` following the tabular schema:
    - For **SaaS**: specify parent valuation, starting tier pricing, and exact free tier/trial limits.
-   - For **Open-Source**: include GitHub repo link, star badge, license, tech stack, and descriptive overview.
+   - For **Open-Source**: include GitHub repo link, Stars_Badge, license, tech stack, and descriptive overview.
 3. 🔎 Verify links and ensure all figures are factually grounded.
 4. 📬 Submit a Pull Request with a clear description of the addition or update.
 
