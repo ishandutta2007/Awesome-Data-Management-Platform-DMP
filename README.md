@@ -60,7 +60,7 @@ The table below lists category-defining commercial Data Management Platforms and
 
 Open-source Customer Data Platforms (CDPs), event collection backbones, identity engines, and warehouse-native reverse-ETL tools provide transparent, self-hosted, privacy-first alternatives to commercial DMPs. 
 
-Projects below are sorted in descending order by **GitHub Stars_Count**:
+Projects below are sorted in descending order by **GitHub_Stars_Count**:
 
 | 💻 Repository | ⭐ GitHub_Stars | ⚖️ License | 🛠️ Tech Stack | 📖 Description |
 | :--- | :--- | :--- | :--- | :--- |
