@@ -26,6 +26,7 @@ Whether you are designing a high-throughput martech data architecture, orchestra
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🏗️ Architectural Recommendations & Stacks](#-architectural-recommendations--stacks)
 - [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📜 Disclaimer](#-disclaimer)
 
@@ -94,6 +95,24 @@ While commercial enterprise DMPs lead in large third-party marketplaces, pre-bui
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Data-Management-Platform-DMP&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Data-Management-Platform-DMP&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and using **Awesome Data Management Platform (DMP)**! 🌟
+
+If you found this curated list helpful for your research, team, or project, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** new platforms, tools, and updates.
+- 📢 **Share with your colleagues, networks, and data communities**.
+- ☕ **Buy me a coffee / Sponsor on GitHub**: Support ongoing maintenance, updates, and open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</p>
 
 ---
 
